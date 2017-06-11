@@ -1,7 +1,7 @@
 # rp: Introduction to report (2017Q2)
 
 Publish: 2017/06/12  
-Due: 2017/07/21 
+Due: 2017/07/21 18:00
 
 ## Goal
 
